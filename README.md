@@ -18,7 +18,7 @@ BOAZ 21기 분석 미니프로젝트 5조
 
 ## Team
 - 팀장: [윤수아](https://github.com/sua9912)
-- 팀원: [강민수](https://github.com/minnsu03), [이관형](https://github.com/kwanhyeong0819), [이수](https://github.com/BOAZ-bigdata/)
+- 팀원: [강민수](https://github.com/minnsu03), [이관형](https://github.com/kwanhyeong0819), [이수](https://github.com/2su2su)
 
 <br/>
 
